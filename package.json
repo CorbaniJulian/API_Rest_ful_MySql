@@ -1,0 +1,18 @@
+{
+  "name": "api_rest_ful_mysql",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000P\u0000I\u0000_\u0000R\u0000e\u0000s\u0000t\u0000_\u0000f\u0000u\u0000l\u0000_\u0000M\u0000y\u0000S\u0000q\u0000l\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js",
+    "dev": "node --watch index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
